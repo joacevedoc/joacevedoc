@@ -1,8 +1,8 @@
 # Hola, soy Jose 👋
 
-### Ingeniero en Informática (Jr)  | Desarrollo Web | RPA & Automatización de Procesos
+### Ingeniero en Informática | Desarrollo Web | RPA & Automatización de Procesos
 
-Soy ingeniero en informática titulado de Duoc UC con especialidad en Calidad de Software. Me considero un profesional curioso, adaptable y con una capacidad enorme para aprender rápido; básicamente, me encanta meterme de cabeza en nuevas tecnologías, entender cómo funcionan y dominarlas para resolver problemas reales.
+Soy ingeniero en informática recién titulado de Duoc UC con especialidad en Calidad de Software. Me considero un profesional curioso, adaptable y con una capacidad enorme para aprender rápido; básicamente, me encanta meterme de cabeza en nuevas tecnologías, entender cómo funcionan y dominarlas para resolver problemas reales.
 
 Este es mi portafolio personal de proyectos. Está diseñado para que puedas revisar directamente mi lógica de programación, cómo estructuro el código y el stack tecnológico que aplico en cada solución.
 
