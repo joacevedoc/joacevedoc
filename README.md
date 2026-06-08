@@ -41,6 +41,6 @@ Este es mi portafolio personal de proyectos. Está diseñado para que puedas rev
 
 Estoy buscando mi primera oportunidad laboral formal para integrarme a un equipo donde pueda meter las manos en el código, aprender de gente con más experiencia y proponer soluciones prácticas. Si te interesa mi perfil, ¡conectemos!
 
-* 💼 **LinkedIn:** [jose-acevedo](https://linkedin.com/in/jose-acevedo-629286225/)
+* 💼 **LinkedIn:** [jose-acevedo](https://www.linkedin.com/in/jose-acevedo-caro-629286225/)
 * ✉️ **Email:** joc.acevedoc@gmail.com
 * 📍 **Ubicación:** Región Metropolitana, Chile
